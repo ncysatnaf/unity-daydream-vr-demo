@@ -4,4 +4,4 @@ https://github.com/googlevr/gvr-unity-sdk
 
 ## preview
 
-![preview](./meida/vrtest.gif)
+![preview](./media/vrtest.gif)
